@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RTSPTesting</string>
+    <string name="play"> Play </string>
 </resources>
